@@ -4,7 +4,8 @@
 <br>
 
 ![eba17d7a-b1d6-422c-8988-2b523ab1bcb7](https://github.com/user-attachments/assets/c663402e-8c69-41bc-9e63-730b139b6e5e)
-<br>
-
 бляяяяяяя кибома бляя
 
+<a href="http://t.me/anonaskbot?start=BwrW2nPhS9J3xK2" target="_blank">
+  <img src="https://img.shields.io/badge/-%20-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+</a> (анон бот для связи) 
