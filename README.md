@@ -1,7 +1,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=piranha-ui&label=⃠&color=9370db&style=for-the-badge" alt="piranha-ui" />
 </div>
-
-
-![a8449cb8-11b8-4fef-9386-24fbb443db27](https://github.com/user-attachments/assets/6d49be15-3826-4472-8896-c9b62a32d9c0)
+<a href="https://ibb.co/20PFJS5r"><img src="https://i.ibb.co/Y48NgXbS/Picsart-26-01-15-19-25-19-012.png" alt="Picsart-26-01-15-19-25-19-012" border="0"></a>
 <a href="http://t.me/anonaskbot?start=ua4aooayj2pq6uz"><img src="https://allwebs.ru/images/2026/01/15/97f840f503d58fcd8a95abdd77e3ff2b.th.png" width="30" height="30" alt="Telegram"></a>&nbsp;<a href="https://steamcommunity.com/profiles/76561198766891603/"><img src="https://allwebs.ru/images/2026/01/15/5e66be3bad537f0162f671d99a3269ac.th.png" width="30" height="30" alt="Steam"></a>
