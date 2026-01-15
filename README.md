@@ -9,3 +9,6 @@
 <a href="http://t.me/anonaskbot?start=ua4aooayj2pq6uz">
   <img src="https://allwebs.ru/images/2026/01/15/97f840f503d58fcd8a95abdd77e3ff2b.th.png" width="30" height="30" alt="Telegram" />
 </a>
+<a href="https://steamcommunity.com/id/aeseva">
+  <img src="https://allwebs.ru/images/2026/01/15/5e66be3bad537f0162f671d99a3269ac.th.png" width="30" height="30" alt="Steam" />
+</a>
