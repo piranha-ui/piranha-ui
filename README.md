@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=piranha-ui&label=𓏵&color=9966cc&style=for-the-badge" alt="piranha-ui" />
 </div>
 
-<br>
+---
 
 <div align="center">
 <img src="https://i.ibb.co/Y48NgXbS/Picsart-26-01-15-19-25-19-012.png" alt="Picsart-26-01-15-19-25-19-012" border="0"></a>
