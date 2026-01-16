@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=piranha-ui&label=views&color=9966cc&style=flat-square" alt="piranha-ui" />
+  <img src="https://komarev.com/ghpvc/?username=piranha-ui&label=views&color=96728c&style=flat-square" alt="piranha-ui" />
 </div>
 
 ---
