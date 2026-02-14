@@ -5,7 +5,8 @@
 ---
 
 <div align="center">
-<a href='https://ibb.co/JFjJ9VFV' target='_blank'><img src='https://i.ibb.co/vv4nSpvp/Picsart-26-02-14-18-42-21-803.png' border='0' alt='71f00dd8858a01e0a318bf4067cfae9b'></a>
+<a href='https://ibb.co/JFjJ9VFV' target='_blank'>
+  <img src='https://i.ibb.co/vv4nSpvp/Picsart-26-02-14-18-42-21-803.png' border='0' alt='71f00dd8858a01e0a318bf4067cfae9b'></a>
 </div>
 
 ---
