@@ -9,6 +9,12 @@
   <img src='https://i.ibb.co/b5NXrJgL/Picsart-26-02-14-20-54-15-103.png' border='0' alt='71f00dd8858a01e0a318bf4067cfae9b'></a>
 </div>
 
+<div align="center"> 
+  
+  [public tgc](https://t.me/aeseva) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [more inf](https://t.me/xibbkx/4)
+
+</div>
+
 ---
   
   <div align="center">
