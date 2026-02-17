@@ -11,7 +11,7 @@
 
 <div align="center"> 
   
-  [public tgc](https://t.me/aeseva) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [more inf](https://t.me/xibbkx/4)
+  [public tgc](https://t.me/aeseva) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [more inf](https://teletype.in/@cotmoe/JGda4dc-ULw)
 
 </div>
 
